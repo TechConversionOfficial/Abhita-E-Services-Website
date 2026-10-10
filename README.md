@@ -51,31 +51,8 @@ The published experience therefore centres on three practical questions: **What 
 
 The following images are published on the client's home page. They illustrate the website's presentation of different verification workflows; any statistics shown inside these designs are *illustrative screen content*, not results of Tech Conversion's work.
 
-| Secure Business Verification | Real-Time Customer Verification |
-|---|---|
-| ![Abhita E-Services secure verification dashboard illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/Secure-Business-Verification-Platform.webp) | ![Abhita E-Services real-time customer verification dashboard illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/Verify-Customers-in-Real-Time.webp) |
+![Abhita E-Services website displayed across four device formats](https://github.com/user-attachments/assets/0e72cc46-929e-443b-bd12-3a62e153b18c)
 
-| Multiple Verification Workflows | Faster Verification Operations |
-|---|---|
-| ![Abhita E-Services multiple verification workflow dashboard illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/One-Platform-Multiple-Verification.webp) | ![Abhita E-Services verification operations dashboard illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/Verify-Faster-Operate-Smarter.webp) |
-
-### Platform and Verification Services
-
-| Platform Presentation | PAN Verification Service |
-|---|---|
-| ![Abhita E-Services laptop and mobile platform presentation](https://abhitaeservices.com/wp-content/uploads/2026/09/Platform-Hero-img.webp) | ![Abhita E-Services PAN verification service visual](https://abhitaeservices.com/wp-content/uploads/2026/08/PAN-Verification-Services-Hero.webp) |
-
-### Additional Published Website Visuals
-
-| Secure Business Checks | Business Registration Offer |
-|---|---|
-| ![Secure business verification visual from the Abhita home page](https://abhitaeservices.com/wp-content/uploads/2026/08/Secure-Business.webp) | ![Abhita 20 complimentary credits after business approval graphic](https://abhitaeservices.com/wp-content/uploads/2026/08/Get-20-Credits.webp) |
-
-| Service Categories | Business Trust Illustration |
-|---|---|
-| ![PAN, Aadhaar, vehicle and GSTIN service category illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/Verify-PAN.webp) | ![Abhita enterprise business verification illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/Trusted-by-Enterprises.webp) |
-
-![Abhita E-Services verification and trust themed website illustration](https://abhitaeservices.com/wp-content/uploads/2026/08/footer-constact-Us.webp)
 
 ## Key Visitor Journeys
 
