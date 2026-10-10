@@ -2,7 +2,7 @@
 
 **Abhita E-Services is a B2B verification business whose website was developed by [Tech Conversion](https://techconversion.tech). The website presents identity, company, tax and vehicle verification services within a single, responsive online experience, with clear routes to service information, business registration and enquiries.**
 
-![Abhita E-Services responsive website showcased on desktop, laptop, tablet and mobile](<img width="1200" height="923" alt="Abhita E Services Web Showcase Mockup" src="https://github.com/user-attachments/assets/4679806f-92ee-4274-b889-36a464649380" />)
+![Abhita E-Services responsive website showcased on desktop, laptop, tablet and mobile](src="https://github.com/user-attachments/assets/4679806f-92ee-4274-b889-36a464649380" />)
 
 | | |
 |---|---|
